@@ -1,1 +1,2 @@
 # portfolioBootstrap
+This is my portfolio site! Inside you will find some basic information about me, as well as a contact page to get in touch with me and a small portfolio of projects that i have done. This particular site was styled with just bootstrap.
